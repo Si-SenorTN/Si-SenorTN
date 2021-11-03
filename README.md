@@ -1,2 +1,1 @@
-Si-SenorTN/Si-SenorTN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<a href="https://stackoverflow.com/users/15185749/senor"><img src="https://stackoverflow.com/users/flair/15185749.png?theme=dark" width="208" height="58" alt="profile for Senor at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Senor at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
