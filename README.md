@@ -22,5 +22,5 @@
 
 <div align="center">
 	<a href="http://github.com/Si-SenorTN/Scarlet"> <img style="height:auto;" align="center" width="70" height="70" src="https://github.com/Si-SenorTN/Scarlet/raw/master/docs/images/svg/scarlet_icon.svg"></a>
-	<a href="http://github.com/Si-SenorTN/Packages"> <img style="height:auto;" align="center" width="70" height="70" src="https://github.com/Si-SenorTN/Packages/raw/master/docs/images/package_icon.svg"> </a>
+	<a href="http://github.com/Si-SenorTN/Packages"> <img style="height:auto;" align="center" width="60" height="60" src="https://github.com/Si-SenorTN/Packages/raw/master/docs/images/package_icon.svg"> </a>
 </div>
